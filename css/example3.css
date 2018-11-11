@@ -1,0 +1,12 @@
+h1 {
+	color: purple;
+}
+
+body {
+	background-image: url("https://image.shutterstock.com/z/stock-vector-boy-s-birthday-cupcake-with-candle-confetti-streamers-on-a-pale-blue-background-27700225.jpg");
+}
+
+.card {
+	background-color: transparent;
+	border: dotted;
+}
