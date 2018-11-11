@@ -4,9 +4,23 @@ h1 {
 
 body {
 	background-image: url("https://image.shutterstock.com/z/stock-vector-boy-s-birthday-cupcake-with-candle-confetti-streamers-on-a-pale-blue-background-27700225.jpg");
+
 }
 
 .card {
 	background-color: transparent;
 	border: dotted;
+}
+
+.icon-custom {
+	font-size: 28px;
+	color: black;
+} 
+
+h4 {
+	color: purple;
+}
+
+.bluecolor {
+	color: blue;
 }
